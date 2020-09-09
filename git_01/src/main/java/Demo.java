@@ -7,7 +7,7 @@ public class Demo {
 
     public void demo2(){
         System.out.println("hello!!!");
-        System.out.println("魏瑞涛 狗儿子");
+        System.out.println("cnm");
     }
     public void demo3(){
         System.out.println("hello!wwww!!");
