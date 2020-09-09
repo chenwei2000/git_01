@@ -7,14 +7,13 @@ public class Demo {
 
     public void demo2(){
         System.out.println("hello!!!");
-        System.out.println("dadssad");
+        System.out.println("魏瑞涛 狗儿子");
     }
     public void demo3(){
         System.out.println("hello!wwww!!");
     }
     public void ddd(){
         System.out.println("mawent");
-        System.out.println("asdsad");
     }
 
 }
