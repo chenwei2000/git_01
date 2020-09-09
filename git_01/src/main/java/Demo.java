@@ -7,6 +7,6 @@ public class Demo {
 
     public void demo2(){
         System.out.println("hello!!!");
-
+        System.out.println("魏爹");
     }
 }
