@@ -12,4 +12,8 @@ public class Demo {
     public void demo3(){
         System.out.println("hello!wwww!!");
     }
+    public void ddd(){
+        System.out.println("mawent");
+    }
+
 }
