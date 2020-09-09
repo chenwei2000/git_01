@@ -18,4 +18,7 @@ public class Demo {
     public void del(){
         System.out.println("del");
     }
+    public void update(){
+        System.out.println("update");
+    }
 }
