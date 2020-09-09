@@ -15,5 +15,7 @@ public class Demo {
     public void ddd(){
         System.out.println("mawent");
     }
-
+    public void del(){
+        System.out.println("del");
+    }
 }
